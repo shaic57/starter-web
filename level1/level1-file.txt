@@ -1,0 +1,1 @@
+The UNIX underpinnings of macOS allows custom actions to be written in any language that can work with stdin, stdout, and environment variables, and for complex interactions TextMate expose both WebKit and a dialog framework for Mac-native or HTML-based interfaces.
