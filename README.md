@@ -1,12 +1,15 @@
 # Starter Web Project
 
-This is a simple website project! Don't ask to many questions.  Adding a line for rebasing example. 
+This is a simple website project! Don't ask to many questions. 
+Adding a line for rebasing exmample. 
+Adding another line (post rebase) with more changes to the README file in myfeature. 
 
 ## Introduction
 
 Hello hello - adding text in order to add file - modified state
 
 ## Purpose
+
 
 ## Deployment
 
