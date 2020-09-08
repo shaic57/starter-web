@@ -10,6 +10,7 @@ Hello hello - adding text in order to add file - modified state
 
 ## Purpose
 
+managing multiple stashes
 
 ## Deployment
 
